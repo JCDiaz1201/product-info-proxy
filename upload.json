@@ -1,0 +1,7 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "jdjedi/westbuy:proxy"
+  },
+  "Ports": [{ "ContainerPort": "5500" }]
+}
